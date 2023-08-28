@@ -1,7 +1,3 @@
-# consulta_dados_ibge
-Consulta dados IBGE (Python)
-
-
 # Mini-projeto de consulta de dados externos (IBGE)
 
 Mini-projeto de consulta de dados do IBGE.
